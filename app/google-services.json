@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "16673580132",
+    "project_id": "firebase-fasttap"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16673580132:android:c880ea90ecfc09e0",
+        "android_client_info": {
+          "package_name": "self.lugen.fasttap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByfskUjn3btCGxQ0k1yCmyg_h3ZkNdj5A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
